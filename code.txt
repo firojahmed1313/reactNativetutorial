@@ -1,0 +1,25 @@
+react native 
+
+npx create-expo-app name
+cd name
+npx expo install react-native-web@~0.19.6 react-dom@18.2.0 @expo/webpack-config@^19.0.0
+npx expo start --tunnel
+
+
+
+
+
+
+npm install @react-navigation/native
+
+npx expo install react-native-screens react-native-safe-area-context
+
+npm install @react-navigation/native-stack
+
+npm install @react-navigation/drawer
+npx expo install react-native-gesture-handler react-native-reanimated
+
+
+
+
+
